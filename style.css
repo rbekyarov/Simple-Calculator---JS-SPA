@@ -1,0 +1,21 @@
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 400px;
+    color: rgb(12, 73, 97);
+}
+
+input[type="button"] {
+    background-color: rgb(148, 175, 231);
+    color: black;
+    border: solid black 2px;
+    width: 100px;
+    height: 30px;
+}
+
+input[type="text"] {
+    background-color: white;
+    border: solid black 2px;
+    width: 300px;
+    height: 25px;
+}
